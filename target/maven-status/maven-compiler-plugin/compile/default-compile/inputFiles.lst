@@ -1,0 +1,15 @@
+C:\Users\VenD\Desktop\KashEgypt2\ke-gateway\ke-messaging-client\src\main\java\com\kashegypt\gateway\jms\annotations\CustomJMS.java
+C:\Users\VenD\Desktop\KashEgypt2\ke-gateway\ke-messaging-client\src\main\java\com\kashegypt\gateway\jms\MessagingService.java
+C:\Users\VenD\Desktop\KashEgypt2\ke-gateway\ke-messaging-client\src\main\java\com\kashegypt\gateway\jms\dto\SMSMessageRequestDTO.java
+C:\Users\VenD\Desktop\KashEgypt2\ke-gateway\ke-messaging-client\src\main\java\com\kashegypt\gateway\jms\dto\MessageRequest.java
+C:\Users\VenD\Desktop\KashEgypt2\ke-gateway\ke-messaging-client\src\main\java\com\kashegypt\gateway\jms\util\JsonUtil.java
+C:\Users\VenD\Desktop\KashEgypt2\ke-gateway\ke-messaging-client\src\main\java\com\kashegypt\gateway\jms\MessagingConfiguration.java
+C:\Users\VenD\Desktop\KashEgypt2\ke-gateway\ke-messaging-client\src\main\java\com\kashegypt\gateway\jms\dto\ToDTO.java
+C:\Users\VenD\Desktop\KashEgypt2\ke-gateway\ke-messaging-client\src\main\java\com\kashegypt\gateway\jms\annotations\MailQueue.java
+C:\Users\VenD\Desktop\KashEgypt2\ke-gateway\ke-messaging-client\src\main\java\com\kashegypt\gateway\jms\dto\UnicastNotificationMessageDTO.java
+C:\Users\VenD\Desktop\KashEgypt2\ke-gateway\ke-messaging-client\src\main\java\com\kashegypt\gateway\jms\annotations\SMSQueue.java
+C:\Users\VenD\Desktop\KashEgypt2\ke-gateway\ke-messaging-client\src\main\java\com\kashegypt\gateway\jms\dto\MailMessageRequestDTO.java
+C:\Users\VenD\Desktop\KashEgypt2\ke-gateway\ke-messaging-client\src\main\java\com\kashegypt\gateway\jms\MessageCompletionListener.java
+C:\Users\VenD\Desktop\KashEgypt2\ke-gateway\ke-messaging-client\src\main\java\com\kashegypt\gateway\jms\dto\MultiCastNotificationMessageDTO.java
+C:\Users\VenD\Desktop\KashEgypt2\ke-gateway\ke-messaging-client\src\main\java\com\kashegypt\gateway\jms\annotations\NotificationQueue.java
+C:\Users\VenD\Desktop\KashEgypt2\ke-gateway\ke-messaging-client\src\main\java\com\kashegypt\gateway\jms\DestinationType.java
